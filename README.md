@@ -59,6 +59,7 @@ The ESP8266 hosts a web server displaying real-time sensor values.
 ## Project Images
 
 ![Web Dashboard](docs/web_dashboard.png)
+![Architecture Diagram](docs/architecture.png)
 
 ---
 
